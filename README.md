@@ -24,7 +24,7 @@ A comprehensive backend application built on SpringBoot and MySQL for DBMS follo
 ![Flow Diagram](https://github.com/naveen-kk4/movie-ticket-manager/assets/133044450/2192be7d-0b67-4a40-b1be-8e73b29405bd)
 ## Project UI (Swagger)
 
-![App Screenshot](https://i.im.ge/2024/03/13/RD9qkr.Screenshot-2024-03-13-032453.png)
+![UI Screenshot](https://github.com/naveen-kk4/Vaccify/assets/133044450/bc69a17b-9cd6-4512-a67d-0cd0e49d0cb7)
 
 
 
